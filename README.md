@@ -1,1 +1,1 @@
-# Jogo
+# Jogo "Fuga das abelhas" em estilo platformer
